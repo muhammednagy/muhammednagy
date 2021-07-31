@@ -10,7 +10,7 @@ I'm a passionate software engineer who loves working on all sorts of  web backen
 I mainly use Golang and Ruby but am flexible and can use any language.
 
 - 🔭 I'm a DevOps Engineer [@Pipedrive](https://pipedrive.com/) in Tallinn, Estonia
-- 💬 Ask me about **Ruby and Golang**
+- 💬 Ask me about **Ruby، Golang، JS, Jenkins, k8s**
 
 You can find my resume <a href="https://muhnagy.com/resume.pdf">here</a>
 
