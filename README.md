@@ -13,7 +13,3 @@ I mainly use Golang and Ruby but am flexible and can use any language.
 - 💬 Ask me about **Ruby، Golang، JS, Jenkins, k8s**
 
 You can find my resume <a href="https://muhnagy.com/resume.pdf">here</a>
-
-### My GitHub Stats
-
-![Nagy's github stats](https://github-readme-stats.vercel.app/api?username=muhammednagy&show_icons=true)
